@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FifthLesson</string>
+    <string-array name="question">
+        <item>问题一</item>
+        <item>问题二</item>
+        <item>问题三</item>
+        <item>问题四</item>
+        <item>问题五</item>
+    </string-array>
+    <string name="answer_one">答案一</string>
+    <string name="answer_two">答案二</string>
+    <string name="answer_three">答案三</string>
+    <string name="answer_four">答案四</string>
+    <string name="true_result">回答正确</string>
+    <string name="wrong_result">回答错误</string>
+    <string name="result">已经答完全部题目</string>
+</resources>
